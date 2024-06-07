@@ -1,0 +1,11 @@
+yandex_metrica:
+  token: "***"
+  counter_id: "94228816"
+  base_url: "https://api-metrika.yandex.net"
+
+clickhouse:
+  host: "i072uzvaty.eu-central-1.aws.clickhouse.cloud"
+  port: 8443
+  user: "default"
+  password: "***"
+  database: "metrika_data"

@@ -1,0 +1,6 @@
+clickhouse:
+  host: 'i072uzvaty.eu-central-1.aws.clickhouse.cloud'
+  port: 8443
+  user: 'default'
+  password: '---'
+  secure: true
